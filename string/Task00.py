@@ -1,0 +1,2 @@
+mot = "Olivier"
+print(mot)
